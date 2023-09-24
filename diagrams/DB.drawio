@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-24T12:51:03.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="xvs00Rfba2bVfeUBJ65d" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-24T14:19:18.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Jin4dFUGx4VnMmuPkK9B" version="21.7.5" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
     <mxGraphModel dx="2321" dy="1480" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#7EA6E0" math="0" shadow="1">
       <root>
@@ -1580,8 +1580,8 @@
         <mxCell id="SYdGTLHfsqDevWgXx4K--547" value="Розробити окрему view із html template яка буде передавати відповідь клієнта в TextClientAnswer + sendSMS() яка буде скидати https зсилку" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="645" y="-385" width="255" height="129" as="geometry" />
         </mxCell>
-        <mxCell id="SYdGTLHfsqDevWgXx4K--549" value="Цю гілку доопрацювати" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="-56" width="100" height="100" as="geometry" />
+        <mxCell id="SYdGTLHfsqDevWgXx4K--549" value="Цю гілку доопрацювати&amp;nbsp;&lt;br&gt;подумати над таблицею Замовити Запчастину" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="-56" width="139" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SYdGTLHfsqDevWgXx4K--550" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.02;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SYdGTLHfsqDevWgXx4K--549">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1619,7 +1619,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SYdGTLHfsqDevWgXx4K--561" value="StausName" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="SYdGTLHfsqDevWgXx4K--559">
+        <mxCell id="SYdGTLHfsqDevWgXx4K--561" value="StatusName" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="SYdGTLHfsqDevWgXx4K--559">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
