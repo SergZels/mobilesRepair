@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T15:03:44.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="2xUiI5TltyCUxwOfGToJ" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T07:51:40.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Vs-i-V4RspcN2-NOv899" version="21.7.5" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
     <mxGraphModel dx="2321" dy="1480" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#7EA6E0" math="0" shadow="1">
       <root>
@@ -1625,9 +1625,6 @@
             <mxPoint x="819" y="609" as="sourcePoint" />
             <mxPoint x="601" y="603" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="SYdGTLHfsqDevWgXx4K--546" value="Ще думаю як краще&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
-          <mxGeometry x="955" y="237" width="270" height="91" as="geometry" />
         </mxCell>
         <mxCell id="SYdGTLHfsqDevWgXx4K--547" value="Розробити окрему view із html template яка буде передавати відповідь клієнта в TextClientAnswer + sendSMS() яка буде скидати https зсилку" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="645" y="-385" width="255" height="129" as="geometry" />
