@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T14:42:29.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="3yC57Vf6ZYcprPqTVm6n" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T14:56:39.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="k_m8oPvB1M6kyV--thIm" version="21.8.2" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
     <mxGraphModel dx="2321" dy="1480" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#7EA6E0" math="0" shadow="1">
       <root>
@@ -1563,9 +1563,6 @@
             <mxPoint x="598" y="34" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SYdGTLHfsqDevWgXx4K--547" value="Розробити окрему view із html template яка буде передавати відповідь клієнта в TextClientAnswer + sendSMS() яка буде скидати https зсилку" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="645" y="-385" width="255" height="129" as="geometry" />
-        </mxCell>
         <mxCell id="SYdGTLHfsqDevWgXx4K--555" value="Status of Coresp..." style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="-198" width="180" height="90" as="geometry" />
         </mxCell>
@@ -1951,7 +1948,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hqhGaV8ouefWND-f8oxT-26" value="ще подумати над цією таблицею" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="975" y="290" width="100" height="100" as="geometry" />
+          <mxGeometry x="934" y="315" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="hqhGaV8ouefWND-f8oxT-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hqhGaV8ouefWND-f8oxT-26" target="SYdGTLHfsqDevWgXx4K--740">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2161,6 +2158,24 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1153" y="267" as="sourcePoint" />
             <mxPoint x="1253" y="167" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hqhGaV8ouefWND-f8oxT-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hqhGaV8ouefWND-f8oxT-83" target="SYdGTLHfsqDevWgXx4K--93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="251.71000000000004" y="736" as="sourcePoint" />
+            <mxPoint x="481" y="492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hqhGaV8ouefWND-f8oxT-83" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Consolas, monospace;&quot;&gt;pre_screen_image&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Consolas, monospace;&quot;&gt;&lt;div style=&quot;&quot;&gt;pre_touch&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;pre_charging&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;pre_mute_switcher&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;pre_power_button&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;pre_WiFi_BT&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;pre_Camera&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;pre_FID_HOMButon&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;pre_IMEI&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;pre_Network&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;pre_Speaker &lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;pre_Loudspeaker&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;pre_Proximity_Sensor&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;pre_Microphone&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="82" y="556" width="152" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="hqhGaV8ouefWND-f8oxT-84" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Consolas, monospace;&quot;&gt;post_screen_image&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Consolas, monospace;&quot;&gt;&lt;div style=&quot;&quot;&gt;post_touch&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;post_charging&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;post_mute_switcher&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;post_power_button&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;post_WiFi_BT&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;post_Camera&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;post_FID_HOMButon&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;post_IMEI&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;post_Network&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;ppost_Speaker&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;post_Loudspeaker&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;post_Proximity_Sensor&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;post_Microphone&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="644" y="742" width="152" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="hqhGaV8ouefWND-f8oxT-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hqhGaV8ouefWND-f8oxT-84" target="SYdGTLHfsqDevWgXx4K--96">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="431" y="742" as="sourcePoint" />
+            <mxPoint x="481" y="692" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
