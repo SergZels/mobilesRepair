@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T08:53:07.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="SA16QG2lkcIzW1keBner" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T20:38:38.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="BZOFFB-I4b4SGqQ4doY5" version="22.0.8" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
     <mxGraphModel dx="2321" dy="1468" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#7EA6E0" math="0" shadow="1">
       <root>
@@ -1634,7 +1634,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SYdGTLHfsqDevWgXx4K--523" value="wage type calc&amp;nbsp;" style="shape=table;startSize=32;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-29" y="1278" width="180" height="92" as="geometry" />
+          <mxGeometry x="-101" y="1373" width="180" height="92" as="geometry" />
         </mxCell>
         <mxCell id="SYdGTLHfsqDevWgXx4K--524" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="SYdGTLHfsqDevWgXx4K--523" vertex="1">
           <mxGeometry y="32" width="180" height="30" as="geometry" />
@@ -1785,12 +1785,6 @@
         </mxCell>
         <mxCell id="SYdGTLHfsqDevWgXx4K--656" value="В залежності від групи має ціна роботи і знижки нараховуватися" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1131" y="661" width="101" height="111" as="geometry" />
-        </mxCell>
-        <mxCell id="SYdGTLHfsqDevWgXx4K--658" value="Це тип зарплати" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="188" y="1281" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="SYdGTLHfsqDevWgXx4K--659" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SYdGTLHfsqDevWgXx4K--527" target="SYdGTLHfsqDevWgXx4K--658" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SYdGTLHfsqDevWgXx4K--663" value="contracror type" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="-101" y="1007" width="180" height="90" as="geometry" />
